@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Compiled output
+dist/
+
+# Editor files
+.idea
+
+# OS files
+.DS_Store
+
+# Stats
+stats.json
